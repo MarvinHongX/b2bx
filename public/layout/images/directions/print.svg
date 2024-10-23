@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18.916" height="22.323" viewBox="0 0 18.916 22.323">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_147" data-name="사각형 147" width="18.916" height="22.323" transform="translate(0 0)" fill="none" stroke="#555" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Directions_print_icon" data-name="Directions print icon" transform="translate(0 0)">
+    <g id="그룹_194" data-name="그룹 194">
+      <g id="그룹_193" data-name="그룹 193" clip-path="url(#clip-path)">
+        <rect id="사각형_145" data-name="사각형 145" width="9.855" height="6.994" transform="translate(4.531 1)" fill="none" stroke="#555" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <rect id="사각형_146" data-name="사각형 146" width="16.916" height="8.31" transform="translate(1 7.995)" fill="none" stroke="#555" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+    </g>
+    <rect id="사각형_148" data-name="사각형 148" width="9.855" height="6.994" transform="translate(4.531 14.329)" fill="#fff" stroke="#555" stroke-width="1"/>
+    <g id="그룹_196" data-name="그룹 196">
+      <g id="그룹_195" data-name="그룹 195" clip-path="url(#clip-path)">
+        <rect id="사각형_149" data-name="사각형 149" width="9.855" height="6.994" transform="translate(4.531 14.329)" fill="none" stroke="#555" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+    </g>
+  </g>
+</svg>

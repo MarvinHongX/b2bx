@@ -1,0 +1,11 @@
+<svg id="side_phone_button" data-name="side phone button" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50.002" viewBox="0 0 50 50.002">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_84" data-name="사각형 84" width="50" height="50.002" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="그룹_96" data-name="그룹 96" clip-path="url(#clip-path)">
+    <path id="패스_475" data-name="패스 475" d="M25,50A25,25,0,0,0,50,25h0A25,25,0,0,0,0,25v0A25,25,0,0,0,25,50Z" fill="#445d97"/>
+    <path id="패스_476" data-name="패스 476" d="M42.93,43.257l-3.392,3.392-3.42-3.419a1.16,1.16,0,0,0-1.641,0l-4.464,4.464a1.161,1.161,0,0,0,0,1.641l2.932,2.932A4.367,4.367,0,0,0,36.771,53.5c2.361-.406,6.19-1.789,10.569-6.168l-.013.013c4.38-4.379,5.762-8.208,6.168-10.568a4.367,4.367,0,0,0-1.227-3.826l-2.933-2.933a1.161,1.161,0,0,0-1.641,0l-4.464,4.464a1.161,1.161,0,0,0,0,1.641l3.42,3.419-3.392,3.392Z" transform="translate(-16.615 -16.615)" fill="#fff"/>
+  </g>
+</svg>

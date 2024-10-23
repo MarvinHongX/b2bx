@@ -1,0 +1,10 @@
+<svg id="menu_phone_icon" data-name="menu phone icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14.182" height="14.182" viewBox="0 0 14.182 14.182">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_136" data-name="사각형 136" width="14.182" height="14.182" fill="#111"/>
+    </clipPath>
+  </defs>
+  <g id="그룹_119" data-name="그룹 119" clip-path="url(#clip-path)">
+    <path id="패스_503" data-name="패스 503" d="M6.311,8.066,8.325,10.08l2.031-2.03a.689.689,0,0,1,.974,0L13.981,10.7a.689.689,0,0,1,0,.975L12.24,13.417a2.593,2.593,0,0,1-2.272.729,11.929,11.929,0,0,1-6.275-3.662l.008.008A11.925,11.925,0,0,1,.038,4.216,2.593,2.593,0,0,1,.766,1.944L2.508.2a.689.689,0,0,1,.975,0L6.133,2.853a.689.689,0,0,1,0,.975L4.1,5.858,6.117,7.872Z" transform="translate(-0.001 0)" fill="#fff"/>
+  </g>
+</svg>
