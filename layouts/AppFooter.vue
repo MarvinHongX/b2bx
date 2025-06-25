@@ -50,7 +50,7 @@ const emitScrollTo = async (section) => {
                     <p class="mx-4">|</p>
                     <p>Tel.02-6215-3890</p>
                 </div>
-                <p class="mb-2">Copyright ⓒ 2024 greenepics Inc. All rights reserved</p>
+                <p class="mb-2">Copyright ⓒ 2025 greenepics Inc. All rights reserved</p>
             </div>
         </div>
     </footer>
